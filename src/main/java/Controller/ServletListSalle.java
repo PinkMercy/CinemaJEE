@@ -13,9 +13,7 @@ import java.util.List;
 
 import Dao.DaoSalleCinema;
 
-/**
- * Servlet implementation class ServletListSalle
- */
+
 public class ServletListSalle extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        private ModeleSalleCinema modeleSalle=new ModeleSalleCinema();
@@ -28,7 +26,6 @@ public class ServletListSalle extends HttpServlet {
      */
     public ServletListSalle() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	/**

@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+    <link rel="stylesheet" href="bootstrap.css">
 </head>
 <body>
  <h1>Ajouter une nouvelle salle de cinéma</h1>
